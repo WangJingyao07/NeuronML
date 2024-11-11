@@ -9,4 +9,8 @@
 ![Stars](https://img.shields.io/github/stars/WangJingyao07/NeuronML)
 
 
-🌈Official code for "Exploring Flexible Structure in Meta-Learning"
+**Official code for "Exploring Flexible Structure in Meta-Learning"**
+
+🥇🌈This repository contains not only the CODE of our NeuronML but also several self-make Application cases of Neuroscience. 
+
+*Note:* The CODE is the Pytorch version of MAML (original Tensorflow version is [CODE-maml](https://github.com/cbfinn/maml))
