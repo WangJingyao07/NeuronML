@@ -1,7 +1,5 @@
 # Awesome Neuromodulated Meta-Learning
 
-[PDF](https://doi.org/10.48550/arXiv.2411.06746)
-
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
 ![Static Badge](https://img.shields.io/badge/Meta_Learning-Flexible_Network_Structure-blue)
 ![Static Badge](https://img.shields.io/badge/to_be_continue-orange)
@@ -11,7 +9,7 @@
 ![Stars](https://img.shields.io/github/stars/WangJingyao07/NeuronML)
 
 
-**Official code for "Exploring Flexible Structure in Meta-Learning"**
+**Official code for "Exploring Flexible Structure in Meta-Learning"** [PDF](https://doi.org/10.48550/arXiv.2411.06746)
 
 🥇🌈This repository contains not only the CODE of our NeuronML but also several self-make Application cases of Neuroscience. 
 
