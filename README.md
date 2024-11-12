@@ -1,5 +1,7 @@
 # Awesome Neuromodulated Meta-Learning
 
+[PDF](https://doi.org/10.48550/arXiv.2411.06746)
+
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
 ![Static Badge](https://img.shields.io/badge/Meta_Learning-Flexible_Network_Structure-blue)
 ![Static Badge](https://img.shields.io/badge/to_be_continue-orange)
@@ -60,6 +62,20 @@ Now, you have completed all the settings, just directly train and test as you wa
 We offer two ways to run our code (Take [`MAML`](scripts/MAML) with [`meta-dataset`](scripts/MAML/Train/train_maml_metadataset_all_samplers.sh) as an example), **which will be provided after a few days (until the arxiv been open-sourced)*
 
 
+
+## Citation
+If you find our work and codes useful, please consider citing our paper and star our repository (🥰🎉Thanks!!!):
+```
+@misc{wang2024neuromodulatedmetalearning,
+      title={Neuromodulated Meta-Learning}, 
+      author={Jingyao Wang and Huijie Guo and Wenwen Qiang and Jiangmeng Li and Changwen Zheng and Hui Xiong and Gang Hua},
+      year={2024},
+      eprint={2411.06746},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2411.06746}, 
+}
+```
 
 
 
