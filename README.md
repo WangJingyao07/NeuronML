@@ -57,7 +57,7 @@ Now, you have completed all the settings, just directly train and test as you wa
 
 ## Train
 
-We offer two ways to run our code (Take [`MAML`](scripts/MAML) with [`meta-dataset`](scripts/MAML/Train/train_maml_metadataset_all_samplers.sh) as an example), **which will be provided after a few days (until the arxiv been open-sourced)*
+We offer two ways to run our code (Take [`MAML`](scripts/MAML) with [`meta-dataset`](scripts/MAML/Train/train_maml_metadataset_all_samplers.sh) as an example), **which will be provided after a few days (until the paper been open-sourced)*
 
 
 
